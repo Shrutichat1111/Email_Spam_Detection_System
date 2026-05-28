@@ -1,0 +1,11 @@
+import streamlit as st
+
+st.title("Email Spam Detection")
+
+msg = st.text_area("Enter message")
+
+if st.button("Predict"):
+    st.write("Model will predict here")
+
+python3 -m streamlit run app.py
+
