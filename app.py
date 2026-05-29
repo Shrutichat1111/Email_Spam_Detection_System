@@ -42,7 +42,7 @@ with open('model.pkl', 'rb') as f:
 
 st.title("EMAIL SPAM DETECTION SYSTEM")
 
-input_sms=st.text_input("Enter your text")
+input_sms=st.text_area("Enter your text")
 
 if st.button("Predict"):
  
