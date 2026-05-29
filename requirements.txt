@@ -23,13 +23,6 @@ numpy
 packaging
 pandas
 Pillow
-pkgutil_resolve_name
-protobuf
-pyarrow
-pydeck
-pygame
-Pygments
-Pympler
 pyrsistent
 python-dateutil
 pytz
